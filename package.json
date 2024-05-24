@@ -1,0 +1,19 @@
+{
+  "name": "modulo-node-js-ivanberaldomo",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15135590&assignment_repo_type=AssignmentRepo) <h2>Tarefa Node.JS</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackxeducacao/modulo-node-js-ivanberaldomo.git"
+  },
+  "author": "Ivan Beraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackxeducacao/modulo-node-js-ivanberaldomo/issues"
+  },
+  "homepage": "https://github.com/stackxeducacao/modulo-node-js-ivanberaldomo#readme"
+}
